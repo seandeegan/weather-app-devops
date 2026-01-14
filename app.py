@@ -11,7 +11,7 @@ def get_weather():
         "status": "online",
         "city": "Athol",
         "temperature": "32F",
-        "condition": "Cold (Perfect for Linux servers)"
+        "condition": "Cold (Perfect for Linux servers)"}}}}}}}
     })
 
 if __name__ == '__main__':
